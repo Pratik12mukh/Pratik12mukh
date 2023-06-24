@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I am passionate about data science and machine lea
 
 ## Let's Connect
 
-I'm always eager to connect with fellow data enthusiasts and collaborate on exciting projects. If you have any questions, or suggestions, or just want to say hi, feel free to reach out to me. You can contact me via email at [pratik12mukh@gmail.com](mailto:pratik12mukh@gmail.com) or connect with me on [LinkedIn](link-to-your-LinkedIn-profile](https://www.linkedin.com/in/pratik-barmukh-48501b148/)https://www.linkedin.com/in/pratik-barmukh-48501b148/).
+I'm always eager to connect with fellow data enthusiasts and collaborate on exciting projects. If you have any questions, or suggestions, or just want to say hi, feel free to reach out to me. You can contact me via email at [pratik12mukh@gmail.com](mailto:pratik12mukh@gmail.com).
 
 Looking forward to connecting with you!
 
