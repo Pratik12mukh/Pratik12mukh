@@ -1,9 +1,31 @@
-- 👋 Hi, I’m @Pratik12mukh
-- 👀 I’m interested in ... Data science and machine learning 
-- 🌱 I’m currently learning ... Data science 
-- 📫 How to reach me ... mail:  pratik12mukh@gmail.com
+# Hi, I'm Pratik Mukherjee! 👋
 
-<!---
-Pratik12mukh/Pratik12mukh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile! I am passionate about data science and machine learning, and I am currently learning and exploring various concepts in the field.
+
+## About Me
+
+- 👀 I'm interested in data science, machine learning, and artificial intelligence.
+- 🌱 I'm currently learning and sharpening my skills in data science and its related technologies.
+- 💼 I have experience working on projects involving data analysis, predictive modeling, and data visualization.
+- 🎓 I hold a degree in bachelor's engineering in Information technology.
+- 💻 I enjoy coding in Python and using libraries such as pandas, numpy, scikit-learn, and TensorFlow.
+- 📫 You can reach me at [pratik12mukh@gmail.com](mailto:pratik12mukh@gmail.com).
+
+## Projects
+
+## Skills
+
+- Data Analysis
+- Machine Learning
+- Predictive Modeling
+- Data Visualization
+- Python
+- SQL
+- Git
+
+## Let's Connect
+
+I'm always eager to connect with fellow data enthusiasts and collaborate on exciting projects. If you have any questions, or suggestions, or just want to say hi, feel free to reach out to me. You can contact me via email at [pratik12mukh@gmail.com](mailto:pratik12mukh@gmail.com) or connect with me on [LinkedIn]([link-to-your-LinkedIn-profile](https://www.linkedin.com/in/pratik-barmukh-48501b148/)https://www.linkedin.com/in/pratik-barmukh-48501b148/).
+
+Looking forward to connecting with you!
+
